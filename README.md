@@ -13,6 +13,7 @@ Les données utilisées dans ce projet sont fournies par Ilyes Talbi. Elles comp
    - 3_Modelisation_KNN: Notebook pour la construction et lévaluation du modèle KNN.
    - 4_Modelisation_DecisionTree: Notebook pour la construction et lévaluation du modèle Decision Tree.
    - 5_Modelisation_RandomForest: Notebook pour la construction et lévaluation du modèle Random Forest.
+   - 6_Modèle Retenu: Texte explicatif concernant le meilleur modéle 
 
 3. **Données**:
    - carac.csv
