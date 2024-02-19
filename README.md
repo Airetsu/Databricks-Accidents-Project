@@ -15,7 +15,10 @@ Les données utilisées dans ce projet sont fournies par Ilyes Talbi. Elles comp
    - 5_Modelisation_RandomForest: Notebook pour la construction et lévaluation du modèle Random Forest.
 
 3. **Données**:
-   - `accidents.csv`: Fichier CSV contenant les données sur les accidents routiers.
+   - carac.csv
+   - lieux.csv
+   - veh.csv
+   - vict.csv
 
 4. **README.md**:
    - Fichier README pour fournir des informations sur le projet, les sources de données et les éléments du repository.
