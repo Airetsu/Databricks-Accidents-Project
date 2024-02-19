@@ -8,7 +8,7 @@ Les données utilisées dans ce projet sont fournies par Ilyes Talbi. Elles comp
 
 
 
- **Notebook de Modélisation** (sur Azure):
+ **Notebook de Modelisation.dbc**:
    - 2_Pretraitement: Notebook pour le prétraitement des données, y compris la manipulation des valeurs manquantes, lencodage des variables catégoriques, etc.
    - 3_Modelisation_KNN: Notebook pour la construction et lévaluation du modèle KNN.
    - 4_Modelisation_DecisionTree: Notebook pour la construction et lévaluation du modèle Decision Tree.
